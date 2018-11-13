@@ -15,5 +15,5 @@ These are source files for the Envato Tuts+ course: [Practice PHP and Learn: Fil
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/practice-php-and-learn:-file-handling
+[published url]: https://code.tutsplus.com/courses/practice-php-and-learn-file-handling
 [instructor url]: https://tutsplus.com/authors/derek-jensen
